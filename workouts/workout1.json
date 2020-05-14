@@ -1,5 +1,5 @@
 {
-  "schedule", [1,2,1],
+  "schedule": [1,2,1],
   "sets":[{
     "press up": 25,
     "sit up": 30
